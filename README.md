@@ -59,7 +59,7 @@ except Exception as e:
     print(f"Error: {e}")
 ```
 
-## 🎨 Example Output
+## 🎨 Example output
 The generated pencil sketch will be saved as `pencil_sketch.jpg`.
 
 ## 📜 License
